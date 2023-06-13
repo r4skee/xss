@@ -1,7 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/test2.yaml",
+    "url": "https://raw.githubusercontent.com/r4skee/xss/main/teste5.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/dk4trin/swagger-xss/main/test2.yaml",
+        "url": "https://raw.githubusercontent.com/r4skee/xss/main/teste5.yaml",
         "name": "foo"
     }]
 }
